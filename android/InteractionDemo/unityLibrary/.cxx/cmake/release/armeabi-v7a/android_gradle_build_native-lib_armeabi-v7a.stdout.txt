@@ -1,0 +1,13 @@
+ninja: Entering directory `D:\Course\2024\Android\InteractionDemo\unityLibrary\.cxx\cmake\release\armeabi-v7a'
+[1/2] Building CXX object CMakeFiles/native-lib.dir/main.cpp.o
+D:/Course/2024/Android/InteractionDemo/unityLibrary/src/main/cpp/main.cpp:39:63: warning: implicit conversion from 'int' to 'jbyte' (aka 'signed char') changes value from 255 to -1 [-Wconstant-conversion]
+            image[j * width + i] = (y < 0) ? 0 : ((y > 255) ? 255 : y);
+                                 ~                            ^~~
+D:/Course/2024/Android/InteractionDemo/unityLibrary/src/main/cpp/main.cpp:41:83: warning: implicit conversion from 'int' to 'jbyte' (aka 'signed char') changes value from 255 to -1 [-Wconstant-conversion]
+                image[frameSize + j * width / 2 + i] = (v < 0) ? 0 : ((v > 255) ? 255 : v);
+                                                     ~                            ^~~
+D:/Course/2024/Android/InteractionDemo/unityLibrary/src/main/cpp/main.cpp:43:87: warning: implicit conversion from 'int' to 'jbyte' (aka 'signed char') changes value from 255 to -1 [-Wconstant-conversion]
+                image[frameSize + j * width / 2 + i - 1] = (u < 0) ? 0 : ((u > 255) ? 255 : u);
+                                                         ~                            ^~~
+3 warnings generated.
+[2/2] Linking CXX shared library D:\Course\2024\Android\InteractionDemo\unityLibrary\build\intermediates\cmake\release\obj\armeabi-v7a\libnative-lib.so

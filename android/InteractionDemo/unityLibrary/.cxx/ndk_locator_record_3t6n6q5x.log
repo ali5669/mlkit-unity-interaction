@@ -1,0 +1,38 @@
+[
+  {
+    "level": "INFO",
+    "message": "android.ndkVersion from module build.gradle is not set"
+  },
+  {
+    "level": "INFO",
+    "message": "ndk.dir in local.properties is D:/Softs/UnityHubEditor/2021.3.12f1c2/Editor/Data/PlaybackEngines/AndroidPlayer/NDK"
+  },
+  {
+    "level": "INFO",
+    "message": "ANDROID_NDK_HOME environment variable is not set"
+  },
+  {
+    "level": "INFO",
+    "message": "sdkFolder is D:\\Softs\\UnityHubEditor\\2021.3.12f1c2\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK"
+  },
+  {
+    "level": "INFO",
+    "message": "Considering D:\\Softs\\UnityHubEditor\\2021.3.12f1c2\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\NDK by ndk.dir"
+  },
+  {
+    "level": "INFO",
+    "message": "Considering D:\\Softs\\UnityHubEditor\\2021.3.12f1c2\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK\\ndk-bundle in SDK ndk-bundle folder"
+  },
+  {
+    "level": "INFO",
+    "message": "Considering D:\\Softs\\UnityHubEditor\\2021.3.12f1c2\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK\\ndk\\21.4.7075529 in SDK ndk folder"
+  },
+  {
+    "level": "INFO",
+    "message": "Rejected D:\\Softs\\UnityHubEditor\\2021.3.12f1c2\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK\\ndk-bundle in SDK ndk-bundle folder because that location has no source.properties"
+  },
+  {
+    "level": "INFO",
+    "message": "Found requested ndk.dir (D:\\Softs\\UnityHubEditor\\2021.3.12f1c2\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\NDK) which has version 21.3.6528147"
+  }
+]
