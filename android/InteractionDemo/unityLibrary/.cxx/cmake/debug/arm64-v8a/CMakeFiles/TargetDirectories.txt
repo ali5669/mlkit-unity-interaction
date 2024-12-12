@@ -1,0 +1,3 @@
+D:/Course/2024/mlkit-unity-interaction/android/InteractionDemo/unityLibrary/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir
+D:/Course/2024/mlkit-unity-interaction/android/InteractionDemo/unityLibrary/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Course/2024/mlkit-unity-interaction/android/InteractionDemo/unityLibrary/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir

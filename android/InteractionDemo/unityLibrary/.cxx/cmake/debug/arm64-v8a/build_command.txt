@@ -1,0 +1,21 @@
+Executable : D:\Softs\UnityHubEditor\2021.3.12f1c2\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HD:\Course\2024\mlkit-unity-interaction\android\InteractionDemo\unityLibrary\src\main\cpp
+-DCMAKE_FIND_ROOT_PATH=D:\Course\2024\mlkit-unity-interaction\android\InteractionDemo\unityLibrary\.cxx\cmake\debug\prefab\arm64-v8a\prefab
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_TOOLCHAIN_FILE=D:\Softs\UnityHubEditor\2021.3.12f1c2\Editor\Data\PlaybackEngines\AndroidPlayer\NDK\build\cmake\android.toolchain.cmake
+-DANDROID_ABI=arm64-v8a
+-DANDROID_NDK=D:\Softs\UnityHubEditor\2021.3.12f1c2\Editor\Data\PlaybackEngines\AndroidPlayer\NDK
+-DANDROID_PLATFORM=android-24
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DCMAKE_ANDROID_NDK=D:\Softs\UnityHubEditor\2021.3.12f1c2\Editor\Data\PlaybackEngines\AndroidPlayer\NDK
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\Course\2024\mlkit-unity-interaction\android\InteractionDemo\unityLibrary\build\intermediates\cmake\debug\obj\arm64-v8a
+-DCMAKE_MAKE_PROGRAM=D:\Softs\UnityHubEditor\2021.3.12f1c2\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\cmake\3.10.2.4988404\bin\ninja.exe
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=24
+-BD:\Course\2024\mlkit-unity-interaction\android\InteractionDemo\unityLibrary\.cxx\cmake\debug\arm64-v8a
+-GNinja
+jvmArgs : 
+
+Build command args:

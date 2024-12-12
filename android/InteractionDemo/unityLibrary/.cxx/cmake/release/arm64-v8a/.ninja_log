@@ -1,0 +1,5 @@
+# ninja log v5
+0	81	736690017	CMakeFiles/native-lib.dir/main.cpp.o	7b986adef4d29306
+81	127	736690017	D:/Course/2024/Android/InteractionDemo/unityLibrary/build/intermediates/cmake/release/obj/arm64-v8a/libnative-lib.so	f1f242b1f5c1b0f6
+1	90	737209257	CMakeFiles/native-lib.dir/main.cpp.o	7b986adef4d29306
+91	144	737209257	D:/Course/2024/Android/InteractionDemo/unityLibrary/build/intermediates/cmake/release/obj/arm64-v8a/libnative-lib.so	f1f242b1f5c1b0f6

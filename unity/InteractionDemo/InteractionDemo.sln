@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{A87209B8-E61C-C032-5FE4-F845BA35C80C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyAR.Sense.Sample.MotionTracking", "EasyAR.Sense.Sample.MotionTracking.csproj", "{6E4CCFE9-770B-5457-ED18-84F48829FDD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{68E79E5F-7C03-8CE7-B1BF-0809AE139333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A87209B8-E61C-C032-5FE4-F845BA35C80C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87209B8-E61C-C032-5FE4-F845BA35C80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87209B8-E61C-C032-5FE4-F845BA35C80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87209B8-E61C-C032-5FE4-F845BA35C80C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E4CCFE9-770B-5457-ED18-84F48829FDD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E4CCFE9-770B-5457-ED18-84F48829FDD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E4CCFE9-770B-5457-ED18-84F48829FDD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E4CCFE9-770B-5457-ED18-84F48829FDD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68E79E5F-7C03-8CE7-B1BF-0809AE139333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68E79E5F-7C03-8CE7-B1BF-0809AE139333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68E79E5F-7C03-8CE7-B1BF-0809AE139333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68E79E5F-7C03-8CE7-B1BF-0809AE139333}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

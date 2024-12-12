@@ -1,0 +1,5 @@
+# ninja log v5
+0	124	736690016	CMakeFiles/native-lib.dir/main.cpp.o	dc842c182bc1d50b
+124	180	736690016	D:/Course/2024/Android/InteractionDemo/unityLibrary/build/intermediates/cmake/release/obj/armeabi-v7a/libnative-lib.so	af3a993b54c49e96
+0	105	737209256	CMakeFiles/native-lib.dir/main.cpp.o	dc842c182bc1d50b
+106	161	737209256	D:/Course/2024/Android/InteractionDemo/unityLibrary/build/intermediates/cmake/release/obj/armeabi-v7a/libnative-lib.so	af3a993b54c49e96
